@@ -1,0 +1,1 @@
+-- SQL para crear tablas en SAP HANA Cloud
