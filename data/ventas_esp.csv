@@ -1,1 +1,7 @@
-sale_id,fecha,country,warehouse,product_id,product_name,quantity,price
+id_de_venta,fecha,país,almacén,id_del_producto,nombre_del_producto,cantidad,precio
+1,2025-11-01,ESP,materia_prima,1001,Tablero Roble,7,1350.00
+2,2025-11-01,ESP,ensamblado,2003,Sillon Europeo,3,4800.00
+3,2025-11-02,ESP,terminado,3003,Mesa Mediterránea,2,3500.00
+4,2025-11-03,ESP,terminado,3004,Estantería Roble,1,2950.00
+5,2025-11-04,ESP,ensamblado,2004,Silla Contempo,4,1800.00
+
