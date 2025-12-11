@@ -1,4 +1,4 @@
-sale_id,fecha,country,warehouse,product_id,product_name,quantity,price
+id_de_venta,fecha,país,almacén,id_del_producto,nombre_del_producto,cantidad,precio
 1,2025-11-01,MEX,materia_prima,1001,Tablero Roble,10,1200.00
 2,2025-11-02,MEX,ensamblado,2001,Sillon Moderno,2,4500.00
 3,2025-11-02,MEX,terminado,3001,Mesa Comedor,1,3200.00
