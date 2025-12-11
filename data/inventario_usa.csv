@@ -1,1 +1,7 @@
+id_inventario,fecha,país,almacén,id_producto,stock
+1,2025-11-01,USA,materia_prima,1002,180
+2,2025-11-01,USA,ensamblado,2005,25
+3,2025-11-01,USA,terminado,3005,9
+4,2025-11-01,USA,terminado,3006,20
+5,2025-11-01,USA,ensamblado,2006,45
 
